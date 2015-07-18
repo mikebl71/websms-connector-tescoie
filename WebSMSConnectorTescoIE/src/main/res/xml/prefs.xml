@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/connector_prefs_title">
+
+    <CheckBoxPreference android:key="enable_connector"
+        android:title="@string/connector_prefs_enable" />
+
+    <EditTextPreference android:key="username"
+        android:title="@string/connector_prefs_username"
+        android:summary="@string/connector_prefs_username_hint"
+        android:inputType="phone"/>
+
+    <EditTextPreference android:key="password"
+        android:title="@string/connector_prefs_password"
+        android:summary="@string/connector_prefs_password_hint"
+        android:inputType="textPassword"/>
+
+</PreferenceScreen>

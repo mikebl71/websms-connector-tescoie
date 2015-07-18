@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WebSMS Connector: TescoIE</string>
+
+    <string name="connector_tescoie_author">mikebl71 &lt;mikeblmail-websms@yahoo.ie&gt;</string>
+    <string name="connector_tescoie_name">tesco</string>
+
+    <string name="connector_prefs_title">Preferences - tesco</string>
+    <string name="connector_prefs_enable">Enable tesco</string>
+    <string name="connector_prefs_username">Mobile number</string>
+    <string name="connector_prefs_username_hint">Your Tesco Mobile phone number, e.g. 0891234567</string>
+    <string name="connector_prefs_password">Password</string>
+    <string name="connector_prefs_password_hint">Your password for tescomobile.ie website</string>
+
+    <string name="error_http">Error response from server: </string>
+    <string name="error_empty_response">Empty response from server</string>
+    <string name="error_login">Failed to login</string>
+    <string name="error_prepare_req">Failed to prepare request</string>
+    <string name="error_unexpected_resp">Unexpected response from server</string>
+    <string name="error_send">Failed to send message: </string>
+
+</resources>
