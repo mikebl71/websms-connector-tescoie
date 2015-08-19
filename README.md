@@ -3,7 +3,7 @@ WebSMS: TescoIE Connector
 
 This is WebSMS Connector for Tesco Mobile Ireland.
 
-WebSMS is an android app that lets you send free/cheap SMS messages via websites of various mobile providers. However, it needs Connectors (plugins/extensions) to do the actual job of talking to particular websites.
+WebSMS is an android app that lets you send free/cheap SMS messages via websites of various mobile providers. However, it needs Connectors (plugins/extensions) to do the actual job of talking to individual websites.
 
 This Connector enables you to send WebText messages via www.tescomobile.ie website.
 
