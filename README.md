@@ -9,7 +9,7 @@ This Connector enables you to send WebText messages via www.tescomobile.ie websi
 
 NOTE that, in order to use this application, you must be a customer of Tesco Mobile Ireland and be registered on their website www.tescomobile.ie.
 
-As this in an extension to WebSMS, you also need to install WebSMS app before you can use this app.
+As this in an extension to WebSMS, you also need to install WebSMS before you can use this app.
 
 Project Site
 ============
